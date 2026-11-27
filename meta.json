@@ -1,0 +1,25 @@
+{
+  "repo": "hitmanpro-alert-2026-setup",
+  "product": "HitmanPro Alert 2026 Setup",
+  "product_title": "HitmanPro Alert 2026 Setup",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "hitmanpro-alert",
+    "hitmanpro-app",
+    "hitmanpro-2026",
+    "endpoint-security",
+    "threat-protection",
+    "antivirus",
+    "how-to-install-hitmanpro",
+    "how-to-setup-hitmanpro",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
